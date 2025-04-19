@@ -3,7 +3,7 @@ _最後更新：**2025年4月20日**_
 # 嗨，你好 👋  
 我是 **Johnny Kao**，一位定居東京的顧問，專注於 **數位轉型**、**金融科技** 和 **Web3 區塊鏈**。
 
-## 🌐 語言版本： [English](README.md) | [日本語](README.ja.md)
+#### 🌐 語言版本： [English](README.md) | [日本語](README.ja.md)
 
 ## 💡 關於我
 

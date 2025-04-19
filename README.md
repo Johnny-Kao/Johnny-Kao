@@ -3,11 +3,7 @@ _Last updated: **2025 Apr 20**_
 # Hi there 👋  
 I'm **Johnny Kao**, a Tokyo-based consultant specializing in **digital transformation**, **finance**, and **Web3**.
 
----
-
-## 🌐 Other Languages: [中文](README.zh.md) | [日本語](README.ja.md)
-
----
+#### 🌐 Other Languages: [中文](README.zh.md) | [日本語](README.ja.md)
 
 ## 💡 About Me
 
