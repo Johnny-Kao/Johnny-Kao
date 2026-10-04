@@ -1,73 +1,39 @@
-_Last updated: **2026 May 22**_
+_Last updated: **October 2026**_
 
-# Hi there 👋  
+# Hi there 👋
 I'm **Johnny Kao**.
 
-A lot of my professional work lives on [johnnykao.com](https://johnnykao.com).  
-This GitHub is a bit different. It is the more experimental, more personal side of me, with selected code, passing curiosities, and ideas I feel like keeping around.
+A lot of my formal professional work lives on [johnnykao.com](https://johnnykao.com).  
+This GitHub is a bit different: it is the more experimental, technical, and personal side of me — selected code, open-source contributions, passing curiosities, and ideas I feel like keeping around.
 
-I spend most of my time around finance, strategy, cross-border questions, and digital systems, but I have never liked staying in just one lane.
+I spend most of my time around **finance, strategy, cross-border questions, data, research, and digital systems**, but I have never liked staying in just one lane.
 
-#### 🌐 Other Languages: [中文](README.zh.md) | [日本語](README.ja.md)
+## ⚡ Current Focus
 
-## 💡 About Me
+Recently, I have been spending more time on upstream open-source engineering, especially around **performance, correctness, concurrency, and low-level infrastructure**.
 
-I tend to live in two worlds at once.
+A recurring pattern in the work is simple: find an expensive or unsafe path, establish the behavioral boundary, reduce it to the smallest defensible change, benchmark or differential-test it, and upstream it.
 
-One is the professional world: cross-border finance, strategic work, trust-sensitive environments, and decisions that carry real weight.
+## 🔧 Selected Open-Source Work
 
-The other is more personal and open-ended: strange internet rabbit holes, small experiments, tools I build for myself, and ideas that start as a passing thought and refuse to leave.
+- **[c-blosc2 #805](https://github.com/Blosc/c-blosc2/pull/805)** — avoided unnecessary parallel startup and worker wakeups for low-parallelism jobs; a targeted 64-byte workload improved from **35.86 μs → 2.02 μs**.
+- **[Memray #1035](https://github.com/bloomberg/memray/pull/1035)** — improved Linux/glibc Tracker contention handling, reducing runtime by up to **28% at 256 threads** in an allocation-heavy workload.
+- **[urllib3 #5287](https://github.com/urllib3/urllib3/pull/5287)** — optimized the common single-value header path, improving representative request-construction workloads by roughly **9–13%**.
+- **[python-blosc2 #728](https://github.com/Blosc/python-blosc2/pull/728)** — removed redundant full-block zeroing in the NumPy miniexpr gather path, improving tested workloads by roughly **2–15%**.
 
-This GitHub sits somewhere in between.
+Additional merged correctness work spans **NumPy, SciPy, and free-threaded Python support in python-blosc2**.
 
 ## 🧭 Timeline Highlights
 
-- **2026** – ✨ To Be Continued: ...
-- **2025** – 🚀 *Big Leap into Startup Finance*: Moved from consulting into a startup CFO Office role, supporting a multi-billion JPY fundraising extension and board-level decisions
-- **2024** – 🧭 *Consulting at the Strategic Level*: Led projects spanning digital transformation, AI adoption, future banking strategy, and RWA tokenization
-- **2023** – 🌐 *Bringing Web3 to Institutions*: Guided traditional financial institutions through metaverse, virtual payments, and cross-chain initiatives
-- **2022** – 🧠 *Thought Leadership in Digital Assets*: Authored the digital assets chapter for a top-tier consulting firm’s annual wealth report
-- **2020** – 🧊 *Code to the Arctic*: Contributed code preserved in GitHub’s Arctic Code Vault
-- **2019** – 🏦 *Virtual Banking Pioneer*: Led product strategy for a branchless virtual bank ahead of licensing in Hong Kong
-- **2018** – ⚙️ *Platform Transformation*: Helped shift a crypto trading platform from a product-focused model to a SaaS architecture
-- **2017** – 🌱 *ESG Meets Blockchain*: Developed an ESG index and contributed to a national blockchain roadmap in Oceania
-- **2016** – 🪪 *Digital Citizen*: Among Taiwan’s first e-Residents in Estonia’s digital society initiative
-- **2015** – 💳 *Blockchain Innovation*: Helped launch Bitcoin debit card services, pioneering blockchain finance in Taiwan
-- **2013** – 🤝 *Humanitarian Roots*: Volunteered in Tunisia, learning that innovation starts from human needs
+- **2026** — 📊 Joined **Bloomberg L.P.** in Tokyo; deepened upstream OSS work across scientific Python, systems, networking, profiling, and compression
+- **2025** — 🚀 Moved from consulting into startup finance and corporate development, supporting a multi-billion-JPY fundraising extension and board-level decisions
+- **2024** — 🧭 Worked across digital transformation, AI adoption, future banking strategy, and RWA tokenization
+- **2022–2023** — 🌐 Worked on institutional digital assets, wealth management, payments, and emerging financial infrastructure
+- **2020** — 🧊 Code preserved in GitHub’s **Arctic Code Vault**
+- **2019** — 🏦 Worked on virtual banking and cross-border financial infrastructure
+- **2015–2018** — 💳 Built and worked around payments, Bitcoin-linked card infrastructure, fintech, SaaS, and digital-asset systems
+- **2013** — 🤝 Volunteered in Tunisia
 
-> At every stage, I’ve stayed one step ahead of trends—transforming tech into meaningful, human-centered impact.
+Some repositories here are serious engineering work. Some are experiments. Some exist because I wanted to understand one obscure problem properly.
 
-## 💼 Work Experience
-
-### 📍 Confidential Startup | Tokyo
-**VP, Strategy & Corporate Development (CFO Office)**
-_May 2025 - March 2026_
-
-Partnered closely with the CFO on a multi-billion JPY financing extension and board-level cross-border decisions, shaping capital allocation and execution priorities.
-
-### 📍 Boston Consulting Group (BCG) | Tokyo  
-**Senior Analyst, Financial Institutions (Strategy & Finance)**  
-_November 2021 - May 2025_  
-Delivered 20+ Financial Institutions engagements across wealth management, payments, and digital finance, shaping investment, market-entry, and operating model decisions for major financial institutions.
-
-### 📍 Sumitomo Mitsui Trust Bank Limited | Tokyo  
-**Associate, Global Business Planning & Coordination Department**  
-_September 2019 - November 2021_  
-Served as a coordination hub for cross-border governance across UK, Luxembourg, Hong Kong, and China entities, strengthening risk visibility and executive decision-making during COVID-19.
-
-### 📍 China Binary Sale Technology Ltd | Beijing, China  
-**Head of Product & Delivery (Online Banking & Crypto Exchange SaaS)**  
-_September 2017 - November 2019_  
-Led regulated digital banking and crypto-exchange SaaS platform build-out, connecting product, compliance, payments, and cross-border rollout priorities.
-
-### 📍 WageCan | Hong Kong SAR  
-**Product Manager | Digital Asset-Based Prepaid Card**  
-_July 2015 - July 2017_  
-
-Drove product and cross-border rollout for a digital-asset-linked prepaid card platform, supporting payment-network integration and EU/US market expansion.
-
-## 🌐 Website & Links
-- 🌍 [johnnykao.com](https://johnnykao.com)  
-- 💼 [LinkedIn](https://linkedin.johnnykao.com)
-
----
+That distinction is intentional.
