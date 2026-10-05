@@ -24,7 +24,7 @@ Additional merged correctness work spans **NumPy, SciPy, and free-threaded Pytho
 
 ## 🧭 Timeline Highlights
 
-- **2026** — 📊 Joined **Bloomberg L.P.** in Tokyo; deepened upstream OSS work across scientific Python, systems, networking, profiling, and compression
+- **2026** — 📊 Deepened upstream OSS work across scientific Python, systems, networking, profiling, and compression
 - **2025** — 🚀 Moved from consulting into startup finance and corporate development, supporting a multi-billion-JPY fundraising extension and board-level decisions
 - **2024** — 🧭 Worked across digital transformation, AI adoption, future banking strategy, and RWA tokenization
 - **2022–2023** — 🌐 Worked on institutional digital assets, wealth management, payments, and emerging financial infrastructure
