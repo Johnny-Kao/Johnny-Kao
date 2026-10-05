@@ -3,8 +3,7 @@ _Last updated: **October 2026**_
 # Hi there 👋
 I'm **Johnny Kao**.
 
-A lot of my formal professional work lives on [johnnykao.com](https://johnnykao.com).  
-This GitHub is a bit different: it is the more experimental, technical, and personal side of me — selected code, open-source contributions, passing curiosities, and ideas I feel like keeping around.
+This GitHub is a second Johnny: it is the more experimental, technical, and personal side of me — selected code, open-source contributions, passing curiosities, and ideas I feel like keeping around.
 
 I spend most of my time around **finance, strategy, cross-border questions, data, research, and digital systems**, but I have never liked staying in just one lane.
 
