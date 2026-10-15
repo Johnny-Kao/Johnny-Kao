@@ -15,12 +15,18 @@ A recurring pattern in the work is simple: find an expensive or unsafe path, est
 
 ## 🔧 Selected Open-Source Work
 
+- **[NumPy #32802](https://github.com/numpy/numpy/pull/32802)** — fixed undefined shift behavior in the rational test dtype.
+- **[SciPy #26225](https://github.com/scipy/scipy/pull/26225)** — fixed iteration-count reporting for early-return paths in numerical bracketing solvers.
+- **[pandas #69916](https://github.com/pandas-dev/pandas/pull/69916)** — eliminated unnecessary NA-membership checks during numeric conversion, improving targeted workloads by roughly **17–25%**.
 - **[c-blosc2 #805](https://github.com/Blosc/c-blosc2/pull/805)** — avoided unnecessary parallel startup and worker wakeups for low-parallelism jobs; a targeted 64-byte workload improved from **35.86 μs → 2.02 μs**.
+- **[python-blosc2 #728](https://github.com/Blosc/python-blosc2/pull/728)** — removed redundant full-block zeroing in the NumPy miniexpr gather path, improving tested workloads by roughly **2–15%**.
 - **[Memray #1035](https://github.com/bloomberg/memray/pull/1035)** — improved Linux/glibc Tracker contention handling, reducing runtime by up to **28% at 256 threads** in an allocation-heavy workload.
 - **[urllib3 #5287](https://github.com/urllib3/urllib3/pull/5287)** — optimized the common single-value header path, improving representative request-construction workloads by roughly **9–13%**.
-- **[python-blosc2 #728](https://github.com/Blosc/python-blosc2/pull/728)** — removed redundant full-block zeroing in the NumPy miniexpr gather path, improving tested workloads by roughly **2–15%**.
+- **[urllib3 #5304](https://github.com/urllib3/urllib3/pull/5304)** — removed unnecessary output copying during gzip decompression, reducing client CPU time by roughly **19–23%** in targeted tests.
 
-Additional merged correctness work spans **NumPy, SciPy, and free-threaded Python support in python-blosc2**.
+Additional merged correctness work includes **free-threaded Python support in python-blosc2**.
+
+For a complete record of merged contributions and ongoing research, see **[CoreFoundry Project](https://github.com/Johnny-Kao/CoreFoundry-Project)**.
 
 ## 🧭 Timeline Highlights
 
