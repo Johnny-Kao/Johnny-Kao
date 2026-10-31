@@ -6,7 +6,7 @@ I'm **Johnny Kao**.
 
 This GitHub is a second Johnny: it is the more experimental, technical, and personal side of me — selected code, open-source contributions, passing curiosities, and ideas I feel like keeping around.
 
-I spend most of my time around **finance, strategy, cross-border questions, data, research, and digital systems**, but I have never liked staying in just one lane.
+My background spans **consulting, finance, corporate strategy, digital transformation, and cross-border financial infrastructure**. My interests also include **data, research, digital systems, independent writing, and publishing** — I've never liked staying in just one lane.
 
 ## ⚡ Current Focus
 
@@ -53,13 +53,6 @@ I also explore ideas that never become upstream contributions. Sometimes the res
 
 For detailed benchmarks, technical analysis, additional research, and the full upstream contribution record, see **[CoreFoundry Project](https://github.com/Johnny-Kao/CoreFoundry-Project)**.
 
-## 🌍 Beyond Code
-
-My background spans **consulting, finance, corporate strategy, digital transformation, and cross-border financial infrastructure**.
-
-I also work on independent writing, publishing, and applied research, including the **[Japan Quarterly of Professional Practice](https://jqpp.org)**.
-
-These interests may look unrelated, but they often involve the same questions: where are the real constraints, what assumptions are being made, and how can a system work better without unnecessary complexity?
 
 <details>
 <summary><strong>🧭 Timeline Highlights</strong></summary>
