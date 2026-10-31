@@ -1,22 +1,16 @@
-*Last updated: **October 2026***
-
 # Hi there 👋
 
 I'm **Johnny Kao**.
 
-This GitHub is a second Johnny: it is the more experimental, technical, and personal side of me — selected code, open-source contributions, passing curiosities, and ideas I feel like keeping around.
+This GitHub is a second Johnny — a space for open-source contributions, experiments, and ideas worth exploring.
 
-My background spans **consulting, finance, corporate strategy, digital transformation, and cross-border financial infrastructure**. My interests also include **data, research, digital systems, independent writing, and publishing** — I've never liked staying in just one lane.
+My background spans **finance, consulting, strategy, and cross-border systems**. My interests also include research and publishing. I've never liked staying in just one lane.
 
 ## ⚡ Current Focus
 
-Recently, I have been focusing on **upstream open-source engineering**, particularly performance optimization, correctness, concurrency, and foundational infrastructure.
+I focus on **performance, correctness, and concurrency** in open-source infrastructure — finding unnecessary work, fixing subtle issues, and making small, maintainable improvements backed by evidence.
 
-I look for unnecessary work and hidden assumptions in widely used software — redundant computation, memory operations, synchronization, and subtle correctness boundaries.
-
-My approach is to understand the system, make the smallest maintainable change, and validate its impact. Not every promising idea belongs upstream; sometimes the research explains why the existing design should remain.
-
-For detailed benchmarks, technical research, and my full contribution record, see **[CoreFoundry Project](https://github.com/Johnny-Kao/CoreFoundry-Project)**.
+For detailed research, benchmarks, and contributions, see **[CoreFoundry Project](https://github.com/Johnny-Kao/CoreFoundry-Project)**.
 
 ## 🚀 Performance Highlights
 
