@@ -61,7 +61,9 @@ I also work on independent writing, publishing, and applied research, including 
 
 These interests may look unrelated, but they often involve the same questions: where are the real constraints, what assumptions are being made, and how can a system work better without unnecessary complexity?
 
-## 🧭 Timeline Highlights
+<details>
+<summary><strong>🧭 Timeline Highlights</strong></summary>
+
 
 - **2026** — 📊 Deepened upstream OSS work across scientific Python, systems, networking, profiling, compression, and security research. Expanded independent publishing and established JQPP.
 - **2025** — 🚀 Moved from consulting into startup finance and corporate development, supporting a multi-billion-JPY fundraising extension and board-level decisions.
@@ -72,8 +74,4 @@ These interests may look unrelated, but they often involve the same questions: w
 - **2015–2018** — 💳 Built and worked around payments, Bitcoin-linked card infrastructure, fintech, SaaS, and digital-asset systems.
 - **2013** — 🤝 Volunteered in Tunisia.
 
----
-
-Some repositories here are serious engineering work. Some are experiments. Some exist because I wanted to understand one obscure problem properly.
-
-That distinction is intentional.
+</details>
